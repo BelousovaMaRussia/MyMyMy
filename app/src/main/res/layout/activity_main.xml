@@ -16,7 +16,7 @@
         android:background="#FD7474"
         android:foregroundTint="#CDDC39"
         android:rotationX="2"
-        android:text="Печенька"
+        android:text="Печенюшка"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
